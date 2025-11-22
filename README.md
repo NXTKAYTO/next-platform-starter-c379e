@@ -1,43 +1,33 @@
-# Next.js on Netlify Platform Starter
+# 💖 Acabei de criar: I Love You Julia Djubanski
 
-[Live Demo](https://nextjs-platform-starter.netlify.app/)
+Sim, finalmente saiu do papel! Esse é um site simples, mas feito com todo carinho.  
+Acabei de terminar e não podia deixar de compartilhar aqui.
 
-A modern starter based on Next.js 16 (App Router), Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
+❤️ Por quê?
 
-In this site, Netlify Core Primitives are used both implictly for running Next.js features (e.g. Route Handlers, image optimization via `next/image`, and more) and also explicitly by the user code.
+Porque às vezes um “eu te amo” merece sair do comum.
+Esse site é uma forma criativa de dizer algo sincero de um jeito único.
+Feito especialmente para o amor da minha vida Julia Djubanski.
 
-Implicit usage means you're using any Next.js functionality and everything "just works" when deployed - all the plumbing is done for you. Explicit usage is framework-agnostic and typically provides more features than what Next.js exposes.
+A ideia foi criar algo especial que dissesse, de forma bonita e criativa:
 
-## Deploying to Netlify
+> **"I love you Julia Djubanski"**
 
-Click the button below to deploy this template to your Netlify account.
+---
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-platform-starter)
+## ✨ O que tem no site?
 
-## Developing Locally
+- Um fundo animado com cores suaves e vibrantes
+- Um texto central com animação de pulsação
+- Um botão que, quando clicado, faz chover corações na tela
+- E, claro, **muito amor em cada linha de código**
 
-1. Clone this repository, then run `npm install` in its root directory.
+---
 
-2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
+## 🚀 Como ver
 
-```
-npm install netlify-cli@latest -g
-```
+É super simples!
 
-3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
-
-```
-netlify link
-```
-
-4. Then, run the Next.js development server via Netlify CLI:
-
-```
-netlify dev
-```
-
-If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
-
-## Resources
-
-- Check out the [Next.js on Netlify docs](https://docs.netlify.com/frameworks/next-js/overview/)
+1. Clone o repositório ou baixe o arquivo:
+   ```bash
+   git clone https://github.com/seu-usuario/i-love-you-julia.git
